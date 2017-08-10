@@ -1,0 +1,35 @@
+{
+  "description": "Animal Collection",
+  "animals": [
+    {
+      "species": "Lion",
+      "colour": "yellow",
+      "sound": "roar",
+      "feature": "mane"
+    },
+    {
+      "species": "Elephant",
+      "colour": "grey",
+      "sound": "trumpet",
+      "feature": "trunk"
+    },
+    {
+      "species": "Beaver",
+      "colour": "Brown",
+      "sound": "Chomp",
+      "feature": "Buck Teeth"
+    },
+    {
+      "species": "Bear",
+      "colour": "Brown",
+      "sound": "Growl",
+      "feature": "Big Claws"
+    },
+    {
+      "species": "Cheetah",
+      "colour": "Yellow",
+      "sound": "Roar",
+      "feature": "Long Tail"
+    }
+  ]
+}
